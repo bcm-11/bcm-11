@@ -1,18 +1,27 @@
-- 👋 OI, me chamo Bruno
-- 🌱 Sou um engenheiro mecânico atualmente aprendendo programação e data science
-- 📫 Meu LinkedIn é https://www.linkedin.com/in/brunocaminhamorais/
+- 👋 Oi, tudo bem? 
+- 🌱 Meu nome é Bruno e sou um engenheiro mecânico atualmente aprendendo programação e data science
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bcm-11&show_icons=true&theme=bear)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcm-11&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+##
+<div align="center">
+  <a href="https://github.com/bcm-11">
+  <img width="48%" img height="180em" src="https://github-readme-stats.vercel.app/api?username=bcm-11&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img width="48%" img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcm-11&langs_count=7&theme=bear"/>
+</div>
+  
+##
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+##
 
-<!---
-bcm-11/bcm-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <a href = "mailto:bruno.cmorais@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/brunocaminhamorais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
-<!---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bcm-11&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+##
+<b>Eis um pensamento interessante pra você:</b>
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
---->
+</div> 
