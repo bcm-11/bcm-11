@@ -4,8 +4,8 @@
 ##
 <div align="center">
   <a href="https://github.com/bcm-11">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bcm-11&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcm-11&langs_count=6&theme=bear&layout=compact"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=bcm-11&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcm-11&langs_count=6&theme=bear&layout=compact"/>
 </div>
   
 ##
