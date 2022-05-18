@@ -2,6 +2,10 @@
 <p>🌱 Meu nome é Bruno e sou um engenheiro mecânico atualmente aprendendo programação e data science</p>
 
 ##
+<b>Meu currículo online está disponível em:</b>
+<a href="https://bcm-11.github.io/">https://bcm-11.github.io/<br>
+
+##
 <div align="center">
   <a href="https://github.com/bcm-11">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=bcm-11&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
