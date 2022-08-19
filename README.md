@@ -1,6 +1,8 @@
+<div align="center"><img height="250" src="https://static.wixstatic.com/media/4a60d5_dc8dc6f0493a4f52bff03e851e032086~mv2.gif"></div>
+
 <p>👋 Oi, tudo bacon você?</p>
 <p>🌱 Meu nome é Bruno e sou um engenheiro mecânico atualmente aprendendo programação e data science</p>
-<p>⚡ Trabalho para uma energytech que promove redução energética através de soluções de IoT para sistemas HVAC-R</p>
+<p>⚡ Trabalho para uma energytech que promove redução energética através de soluções de IoT para sistemas de climatização e refrigeração (HVAC-R)</p>
 
 ##
 <b>Meu currículo online está disponível em:</b>
@@ -14,7 +16,7 @@
 </div>
   
 ##
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
 <b>Conhecimentos atuais de programação:</b><br>
 <br>
   <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
@@ -26,10 +28,10 @@
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  
+
 ##
 <b>Eis um pensamento interessante pra você ler hoje:</b><br>
 <br>
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
+<br>
 </div> 
