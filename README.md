@@ -1,8 +1,8 @@
-<div align="center"><img height="250" src="https://static.wixstatic.com/media/4a60d5_dc8dc6f0493a4f52bff03e851e032086~mv2.gif"></div>
+<div align="center"><img height=100% src="https://i.giphy.com/media/5eFikq4yguN5Kc40yZ/giphy.webp"></div>
 
 <p>👋 Oi, tudo bacon você?</p>
-<p>🌱 Meu nome é Bruno e sou um engenheiro mecânico atualmente aprendendo programação e data science</p>
-<p>⚡ Trabalho para uma energytech que promove redução energética através de soluções de IoT para sistemas de climatização e refrigeração (HVAC-R)</p>
+<p>🌱 Eu sou um engenheiro mecânico se aventurando por programação e data science</p>
+<p>⚡ Trabalho para uma energytech que promove redução energética através de soluções de automação IoT para sistemas de climatização e refrigeração (HVAC-R)</p>
 
 ##
 <b>Meu currículo online está disponível em:</b>
